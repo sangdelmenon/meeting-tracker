@@ -1,0 +1,13 @@
+{
+  "name": "meeting-tracker",
+  "version": "1.0.0",
+  "description": "AI-powered meeting notes and action item tracker",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
